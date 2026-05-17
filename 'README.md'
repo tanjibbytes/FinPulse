@@ -1,0 +1,14 @@
+# FinPulse (v1.0) 🚀
+
+A smart and lightweight Command-Line (CLI) Expense Tracker built with Python. This tool helps small entrepreneurs and students track their daily income, expenses, and current cash flow seamlessly using a local CSV database.
+
+## Features
+- Add Income & Expenses with categories.
+- Local data storage using Python's built-in `csv` module.
+- Generates instant financial statements with current balance.
+- Auto timestamping for every transaction.
+
+## How to Run
+Make sure you have Python installed, then run:
+```bash
+python finpulse.py
